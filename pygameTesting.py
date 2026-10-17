@@ -19,6 +19,7 @@ ground_surface = pygame.image.load("C:/Users/jacob/AppData/Local/Programs/Python
 
 #score_surface = test_font.render('My game', False, (64,64,64))
 #score_rectangle = score_surface.get_rect(center = (400,50))
+#test
 
 
 snail_surface = pygame.image.load("C:/Users/jacob/AppData/Local/Programs/Python/Python39/runnerGraphics/snail1.png").convert_alpha()
